@@ -1,0 +1,8 @@
+# Frontend
+leaderboard-frontend/node_modules/
+leaderboard-frontend/.env
+leaderboard-frontend/build/
+
+# Backend
+leaderboard-backend/node_modules/
+leaderboard-backend/.env
